@@ -5,7 +5,7 @@ function init(){
     img.style.display = "block";
     img.style.marginLeft = "auto";
     img.style.marginRight = "auto";
-    setInterval(createInterval, 1000)
+    setInterval(createInterval, 700)
 }
 
 var index = 0;
